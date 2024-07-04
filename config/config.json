@@ -1,0 +1,12 @@
+{
+  "endpoints": {
+    "/endpoint1": {
+      "limit": 2,
+      "intervalSeconds": 60
+    },
+    "/endpoint2": {
+      "limit": 3,
+      "intervalSeconds": 60
+    }
+  }
+}
